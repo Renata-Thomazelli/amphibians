@@ -1,0 +1,33 @@
+1. The Problem Definition
+2. Importing and Analysing the data
+    2.1. Exploring the data
+        2.1.1 checking the shape
+        2.1.2 Verifing the columns names
+        2.1.3 Checking the type of columns
+	2.1.4 checking the memory usage
+	2.1.5 Verifing if there is NAN values
+
+	2.1.6 Analysing the values of each varible
+		2.1.6.1 TR
+		2.1.6.2 SR  
+		2.1.6.3 NR
+		2.1.6.4 OR 
+		2.1.6.5 RR and BR
+		2.1.6.6 SUR1
+		2.1.6.7 SUR2
+		2.1.6.8 SUR3
+		2.1.6.9 CR
+		2.2.6.10 - Identify the target Labels 
+    2.2 Data Analysing
+	2.2.1 - Building function to new columns
+		2.2.1.2 - functions to or, rr and br columns
+		2.2.1.3 - adding new columns
+	2.2.2 - Analysing the Type of Amphibians Labels
+		2.2.2.1 - Checking the quantity of each label
+		2.2.2.2 - Building the labels quantities visualization
+	2.2.3 - Analysing OR Label by Type of Amphibian
+		2.2.3.1 - Building the dataframe to analise the OR Label by Type of Amphibian
+		2.2.3.1.1 - Selecting Varibles to df
+		2.2.3.1.2 - Grouping by or label
+		2.2.3.2 - Building the visualization by or labels and Type of Amphibian
+
