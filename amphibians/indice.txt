@@ -30,4 +30,13 @@
 		2.2.3.1.1 - Selecting Varibles to df
 		2.2.3.1.2 - Grouping by or label
 		2.2.3.2 - Building the visualization by or labels and Type of Amphibian
+	2.2.4 - Analysing RR and BR varibles by Type of Amphibian
+		2.2.4.1 - Building the dataframe to analise the RR and BR varibles by Type of Amphibian
+		2.2.4.1.1 - Selecting Varibles to df
+		2.2.4.1.2 - Stack the types of Amphibians
+		2.2.4.1.3 - Grouping by Amphibians RR and BR varibles
+		2.2.4.1.4 - Reindex by new order of Amphibians type 
+		2.2.4.1.5 - Reindex the order by minimum distances from water reservior to roads 
+		2.2.4.1.6 - Reindex the order by minimum distances to builds 
 
+		2.2.4.2 - Building the visualization by RR and BR varibles by Type of Amphibian
