@@ -56,4 +56,5 @@
 	2.2.6 - Analysing NR and SR varibles by Type of Amphibian
 		2.2.6.1 - Building the dataframe to analise the NR and SR varible by Type of Amphibian
 		2.2.6.2 - Building the Relplot visualization by NR and SR varibles by Type of Amphibian
+		2.2.6.3 - Building the Relplot visualization by NR and SR varibles by Type of Amphibian with NR less then 100000
 	2.2.7 - Analysing TR varible by Type of Amphibian
