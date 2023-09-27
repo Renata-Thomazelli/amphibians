@@ -29,7 +29,7 @@
 		2.2.3.1 - Building the dataframe to analise the OR Label by Type of Amphibian
 		2.2.3.1.1 - Selecting Varibles to df
 		2.2.3.1.2 - Grouping by or label
-		2.2.3.2 - Building the visualization by or labels and Type of Amphibian
+		2.2.3.2 - Building the visualization by "OR labels" and "Type of Amphibian"
 	2.2.4 - Analysing RR and BR varibles by Type of Amphibian
 		2.2.4.1 - Building the dataframe to analise the RR and BR varibles by Type of Amphibian
 		2.2.4.1.1 - Selecting Varibles to df
@@ -38,5 +38,22 @@
 		2.2.4.1.4 - Reindex by new order of Amphibians type 
 		2.2.4.1.5 - Reindex the order by minimum distances from water reservior to roads 
 		2.2.4.1.6 - Reindex the order by minimum distances to builds 
-
+		2.2.4.1.7 - Checking the values of df for Minimum distances from water reservior to roads
+		2.2.4.1.8 - Building the function to separate class by simples types
+		2.2.4.1.9 - Adding the new column "type_amphibian" to df	
 		2.2.4.2 - Building the visualization by RR and BR varibles by Type of Amphibian
+		2.2.4.2.1 - Renaming the amphibians_class column
+		2.2.4.2.2 - Checking the types of columns
+		2.2.4.2.3 - Changing the varible types or RR and BR varibles
+		2.2.4.2.4 - Building the Relplot chart type Scatterplot
+	2.2.5 - Analysing NR varible by Type of Amphibian
+		2.2.5.1 - Building the dataframe to analise the NR varible by Type of Amphibian
+		2.2.5.1.1 - Selecting Varibles to df
+		2.2.5.1.2 - Grouping by NR varible
+		2.2.5.1.3 - Stack the types of Amphibians
+		2.2.5.1.4 - Replacing 0 for NAN values
+		2.2.5.1.5 - Building the Violin plot by Amphibian type and NR varible
+	2.2.6 - Analysing NR and SR varibles by Type of Amphibian
+		2.2.6.1 - Building the dataframe to analise the NR and SR varible by Type of Amphibian
+		2.2.6.2 - Building the Relplot visualization by NR and SR varibles by Type of Amphibian
+	2.2.7 - Analysing TR varible by Type of Amphibian
