@@ -39,8 +39,7 @@
 		2.2.4.1.5 - Reindex the order by minimum distances from water reservior to roads 
 		2.2.4.1.6 - Reindex the order by minimum distances to builds 
 		2.2.4.1.7 - Checking the values of df for Minimum distances from water reservior to roads
-		2.2.4.1.8 - Building the function to separate class by simples types
-		2.2.4.1.9 - Adding the new column "type_amphibian" to df	
+		2.2.4.1.8 - Adding the new column "type_amphibian" to df	
 		2.2.4.2 - Building the visualization by RR and BR varibles by Type of Amphibian
 		2.2.4.2.1 - Renaming the amphibians_class column
 		2.2.4.2.2 - Checking the types of columns
