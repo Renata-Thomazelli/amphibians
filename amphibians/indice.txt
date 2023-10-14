@@ -6,7 +6,6 @@
         2.1.3 Checking the type of columns
 	2.1.4 checking the memory usage
 	2.1.5 Verifing if there is NAN values
-
 	2.1.6 Analysing the values of each varible
 		2.1.6.1 TR
 		2.1.6.2 SR  
@@ -71,3 +70,14 @@
 	3.2.2 - Categorical Encoding
 		3.2.2.1 - Analysing the Categoric types
 		3.2.2.2 - Transforming with get_dummies
+		3.2.2.3 - Having the new Dataframe to work with Machine Learning
+		3.2.2.4 - Revising objecs types
+4. Building the Model
+    4.1 - Spliting the dataset into features and targets
+    4.2 - Creating an Instance of MultiLabelBinarizer Class
+    4.3 - Dividing the df into training and test
+    4.4 - Random Forest Classifier
+        4.4.1 - Training
+	4.4.2 - Checking the Metrics
+	4.4.3 - Building a function to plot ROC Curve
+	4.4.4 - Plotting ROC Curves
