@@ -1,14 +1,17 @@
 
-![Static Badge](https://img.shields.io/badge/STATUS-FINISHED-brightgreen%2Cgreen)
+
+![Static Badge](https://img.shields.io/badge/STATUS-FINISHED-brightGREEN)
 
 
 # Amphibians
 Machine Learning MultiLabel Classification Problem
 
-“This project deals with a multilabel classification problem. The objective is to predict the presence of amphibian species near water reservoirs based on features obtained from GIS systems and satellite images. To achieve this, libraries such as math, pandas, numpy, matplotlib, seaborn, sklearn and skmultilearn problem were used.”
+This project deals with a multilabel classification problem. The objective is to predict the presence of amphibian species near water reservoirs based on features obtained from GIS systems and satellite images. To achieve this, libraries such as math, pandas, numpy, matplotlib, seaborn, sklearn and skmultilearn problem were used.
+Font: font: https://archive.ics.uci.edu/dataset/528/amphibians
+
 
 The notebook has these topics:
-# 1. The Problem Definition [Ir para Minha Seção](#minha-secao)
+# 1. The Problem Definition 
 # 2. Importing and Analysing the data
 ##    2.1 - Exploring the data
 ###      2.1.1 checking the shape
