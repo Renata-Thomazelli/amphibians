@@ -19,6 +19,6 @@ The libraries we used in this project include:
 - sklearn
 - skmultilearn
 
-This problem was particularly challenging, requiring a deep understanding of each variable, its scientific context, and its correlation with the classes. For a more in-depth analysis, check out my Medium article available at this address: Read here.
+This problem was particularly challenging, requiring a deep understanding of each variable, its scientific context, and its correlation with the classes. For a more in-depth analysis, check out my Medium article available at this address: https://medium.com/@recalesi/a-multi-label-classification-with-machine-learning-dffc986fe885
 
 I’d like to express my gratitude to the Data Science Academy for their guidance and for proposing this project on their blog Ciência e Dados.
